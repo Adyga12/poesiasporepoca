@@ -8,11 +8,10 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
-.carousel-item {
-    width: 5cm;
-    height: 8cm;
+.carousel{
+	height: 6px;
 }
-.card-cita{
-	font-size: small;
-	font-style: italic;
-}
+
+.carousel-inner {
+	height: 6px;
+  }
