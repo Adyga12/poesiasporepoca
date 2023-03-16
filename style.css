@@ -1,17 +1,22 @@
 /*Now the styles*/
 * {
-	margin: 0; 
+	margin: 0;
 	padding: 0;
 }
+
 body {
-	background: #ccc; 
+	background: #ccc;
 	font-family: 'Poppins', sans-serif;
 }
 
-.carousel{
+.carousel {
 	height: 6px;
 }
 
 .carousel-inner {
 	height: 6px;
-  }
+}
+
+h5 {
+	background-color: rgb(2, 102, 105);
+}
